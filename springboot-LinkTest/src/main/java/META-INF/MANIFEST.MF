@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Class-Path: validation-api-1.1.0.Final.jar snakeyaml-1.17.jar tomcat-e
+ mbed-core-8.5.4.jar jackson-annotations-2.8.1.jar spring-boot-starter
+ -web-1.4.0.RELEASE.jar classmate-1.3.1.jar spring-boot-1.4.0.RELEASE.
+ jar slf4j-api-1.7.21.jar logback-classic-1.1.7.jar spring-boot-autoco
+ nfigure-1.4.0.RELEASE.jar tomcat-embed-websocket-8.5.4.jar spring-con
+ text-4.3.2.RELEASE.jar jcl-over-slf4j-1.7.21.jar log4j-over-slf4j-1.7
+ .21.jar jackson-core-2.8.1.jar spring-expression-4.3.2.RELEASE.jar hi
+ bernate-validator-5.2.4.Final.jar spring-webmvc-4.3.2.RELEASE.jar jul
+ -to-slf4j-1.7.21.jar spring-boot-starter-logging-1.4.0.RELEASE.jar sp
+ ring-core-4.3.2.RELEASE.jar spring-aop-4.3.2.RELEASE.jar tomcat-embed
+ -el-8.5.4.jar spring-web-4.3.2.RELEASE.jar spring-beans-4.3.2.RELEASE
+ .jar jackson-databind-2.8.1.jar spring-boot-starter-tomcat-1.4.0.RELE
+ ASE.jar logback-core-1.1.7.jar spring-boot-starter-1.4.0.RELEASE.jar 
+ jboss-logging-3.3.0.Final.jar
+Main-Class: com.ultrapower.MyApplication
+
